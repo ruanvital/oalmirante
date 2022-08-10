@@ -1,2 +1,2 @@
 # oalmirante
-Página de estudo baseada em One Piece
+Projeto paralelo baseado em One Piece
