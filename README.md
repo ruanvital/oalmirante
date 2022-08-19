@@ -1,2 +1,2 @@
 # oalmirante
-Projeto paralelo baseado em One Piece
+Projeto pessoal baseado em One Piece
